@@ -18,7 +18,7 @@
     .First Item
 
     .Second Item
-        first sub-item
-	   first sub-sub-item
-         second sub-item
+      -first sub-item
+        - first sub-sub-item
+       - second sub-item
 		
