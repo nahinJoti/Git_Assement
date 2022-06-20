@@ -6,8 +6,8 @@
 ## You have to write markdown
 ### Some Math Equation
 		
-		First equation: Y=X +  X
-	       Second equation: X=Z +
+		         First equation: Y=X +  X
+	                Second equation: X=Z +
 
 
     1.First item a.first sub-item A)first sub-sub-item b.second sub-item
